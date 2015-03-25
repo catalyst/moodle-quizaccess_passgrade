@@ -26,5 +26,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Pass grade quiz access rule';
 $string['preventpassed'] = 'Require a grade less than';
-$string['preventpassed_help'] = 'Students must have a grade less thant the specified grade. This is designed to prevent students who have passed from reattempting the quiz.';
+$string['preventpassed_help'] = 'Students must have a grade less than the specified grade. This is designed to prevent students who have passed from reattempting the quiz.';
 $string['accessprevented'] = 'You have already passed this quiz, and may not make further attempts.';
